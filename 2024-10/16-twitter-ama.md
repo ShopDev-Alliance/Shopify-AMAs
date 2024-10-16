@@ -2,7 +2,7 @@
 
 Date: 2024-10-16
 
-Recording: [Twitter Spaces - Liquid Devs AMA](https://x.com/shopifydevs/status/1844408172007784701?s=46)
+Recording: [Twitter Spaces - Liquid Devs AMA](https://x.com/i/spaces/1eaKbalPPzoxX)
 
 ## Hosts
 
