@@ -6,7 +6,7 @@ Recording: [Twitter Spaces - Liquid Devs AMA](https://x.com/shopifydevs/status/1
 
 ## Hosts
 
-- [Liquid Devs](https://twitter.com/liquid_devs)
+- [Liquid Devs](https://twitter.com/ShopifyDevs)
 - [Ben Sehl](https://twitter.com/benjaminsehl)
 - [Max Stoiber](https://twitter.com/mxstbr)
 - [Clauderic Demers](https://twitter.com/clauderic_d)
