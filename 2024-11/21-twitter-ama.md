@@ -6,7 +6,7 @@ Recording: [Twitter Spaces - Checkout Extensions and Functions](https://x.com/Sh
 
 ## Hosts
 
-- [Liquid Devs](https://twitter.com/ShopifyDevs)
+- [Shopify Devs](https://twitter.com/ShopifyDevs)
 - [Nick Wesselman](https://x.com/nick_wesselman)
 - [Gil Greenberg](https://x.com/gilgNYC)
 - [David Cameron](https://x.com/dave_cameron)
