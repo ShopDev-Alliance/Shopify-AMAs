@@ -81,7 +81,7 @@ A: Considerations include:
     - JSON sections
     - JSON templates
     - Contextualized JSON files
-  - Config files (settings, data, schema)
+    - Config files (settings, data, schema)
 
 #### Legacy Support
 
