@@ -7,8 +7,8 @@ Recording: [Twitter Spaces - PCI v4 Compliance & Shopify Checkout](https://x.com
 ## Hosts
 
 - [Ilya Grigorik](https://x.com/igrigorik)
-- [Mani](https://x.com/manishtomar)
-- [Weston Ruter](https://x.com/WestonRuter)
+- [Mani Fazeli](https://x.com/mcfazeli)
+- [Westin Wrzesinski](https://x.com/westeeze)
 
 ## Key Topics Covered
 
