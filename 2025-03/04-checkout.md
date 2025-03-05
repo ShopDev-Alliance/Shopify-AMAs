@@ -15,22 +15,31 @@ Recording: [Twitter Spaces - PCI v4 Compliance & Shopify Checkout](https://x.com
 ### PCI v4 Overview
 
 00:00 - Introduction and host backgrounds
+
 05:30 - What is PCI v4 and anti-skimming provisions
+
 10:15 - Shopify's checkout philosophy: conversion, compliance, and composability
+
 15:45 - Technical implementation of sandboxing for security
 
 ### Sandboxing & Security Architecture
 
 20:00 - Remote DOM and isolation techniques
+
 25:30 - First-party vs third-party code separation
+
 30:45 - Data access and scope controls
+
 35:20 - Balancing customization with security requirements
 
 ### Extension Development
 
 40:10 - Building UI extensions in a secure environment
+
 45:30 - Developer experience and debugging
+
 50:15 - Q&A on communicating compliance to merchants
+
 55:40 - Cross-channel strategy and compliance
 
 ## Detailed Key Takeaways
