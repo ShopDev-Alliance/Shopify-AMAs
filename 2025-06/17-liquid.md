@@ -4,7 +4,7 @@ Join the Shopify Liquid team for an in-depth discussion about the latest updates
 
 Date: 2025-06-17
 
-Recording: [Twitter Spaces - Liquid Team AMA](https://x.com/i/spaces/[placeholder])
+Recording: [Twitter Spaces - Liquid Team AMA](https://x.com/i/spaces/1DXxyqaYMAPxM)
 
 ## Hosts
 
