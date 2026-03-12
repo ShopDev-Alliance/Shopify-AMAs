@@ -1,9 +1,13 @@
 # Building Shopify Apps with AI: Partner Insights X Space
 
 **Date**: 2026-03-12
+
 **Platform**: Twitter(X) Space
+
 **Host**: [Liam Griffin](https://x.com/liam_at_shopify) (Developer Advocate)
+
 **Co-Host**: [Prakhar](https://x.com/PrakharS96) (FoxSell)
+
 **Guests**:
 * **[Henry Johnson](https://x.com/TalktoHenryJ)**: iziGift: Gift Cards & Rewards
 * **[Farid Movsumov](https://x.com/faridmovsumov)**: Craftshift apps
